@@ -1,0 +1,8 @@
+# Node modules
+node_modules/
+
+# Reports
+output/
+
+# iOS nonsense
+.DS_Store
